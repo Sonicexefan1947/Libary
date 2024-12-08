@@ -1,1 +1,1 @@
-game.GetService(game, "Players").LocalPlayer:Kick('This is really confusing, but for some reason, the script dosent load so when it fixes itself ill open the script again sorry.');
+game.GetService(game, "Players").LocalPlayer:Kick('This is really confusing, but for some reason, the script dosent load so when it fixes itself ill open the script again sorry. Discord: https://discord.gg/7e2HfbnR Lucas.');
